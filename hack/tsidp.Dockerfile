@@ -17,4 +17,4 @@
 #      records the tested pair in versions.yaml.
 #
 # Keep this file to exactly one FROM line. Do not add build steps.
-FROM ghcr.io/tailscale/tsidp:v0.0.15
+FROM ghcr.io/tailscale/tsidp:v0.0.17
